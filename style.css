@@ -1,0 +1,8 @@
+
+div {
+  width: 60px;
+  height: 60px;
+  background: #ff0000;
+  border-radius: 50%;
+  position: absolute;
+}
